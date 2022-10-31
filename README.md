@@ -10,3 +10,13 @@
    <p>aplicativos de internet para ios</p> 
    <title>aplicativos para auxiliar motorista de carros camionhes e carretas </title>
    <p>aplicativos para auxiliar motorista de carro camionhes e carretas </p> 
+<title>programas de tratores</title>
+   <p>programas de tratores</p>
+   <title>programas de computadores</title>
+   <p>programas de computadores</p>
+   <title>programas para celulares</title>
+   <p>programas para celulares</p>
+   <title>calculadora cientifica</title>
+   <p>calculadora cientifica</p>
+   <title>aplicativos de controle de gado</title>
+   <p>aplicativos de controle de gado</p>
